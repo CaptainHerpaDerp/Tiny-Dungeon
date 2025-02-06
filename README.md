@@ -1,1 +1,1 @@
-"# TinyDungeon" 
+A project finished in Jan 2023 for a C++ course at Saxion University of Applied Sciences. Features an 'infinite' turn-based game experience. Players acquire either a random character or a weapon at the end of most levels. Characters and enemies alike possess two combat moves, with the second move featuring a cooldown. Every fifth stage presents a challenging boss encounter, followed by diverse enemy types in subsequent phases.
